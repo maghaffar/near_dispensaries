@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "herb-platform-v3",
+  "private_key_id": "a1853ab9cf1107b01220a60af4ab56361fe6929d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQChafB/nFr1DGxa\nOUsF3FecBXZLe+AIU32sjEPCsY8Rq38XHAtXPJBQPpiJHND6tLHChlKKkPYZzZ51\nOAJxym7JLZy6+rF7N0/zdBej/u0x5p2OvbdrGIaJFWd9Akr16wsFVJX7VPnDGG00\nXHDcCrwfhlOpBQ9hNChEY1hOtmm6kyAlxD7exraXocbI03FWMsPLiprL1y21U8h8\nWBr/zBhJDpODWmZ5ex3eBJRdqiaNHbBUbzh/JzdfQSfA94LBITh84bCnJ3rBUQo7\n8ckBGNA0/Luns5ASBHz5HWRfCbM5s7WK56mIDJM639UCbxOb3A73mjrRqSCwoI2k\nBAc+2kQzAgMBAAECggEALvRq7ixVN1C4WlytStSota3PFjFAYButhNq+wW22gTzi\nuR3C3Ms07ervo386+ZtD1KMPctithp8Od+nlqCVrqeE3ZRsVMxNJkjgUwnOfm3ML\nJWFh8GkPheQwmShoFvabW58aDCVRjKPX7LHxcMk8pW0FfDcJHM0344EEyMz+n7PD\nhWnOUcvSUxG4JxhqzBg0DzBgRoybAyWAojLOrDIBoaVKAtDu+V/BFkwFdfCvwFJA\nxURtW65ril9a6+e0ygh1NScWXQCWKcSuOPLoEcQ+3WTnPgY3R5Kshx/MfbAbzC5n\noszSkniLWRgUUSNboIb+Lg8eRc5tWayyn7kM+UktSQKBgQDRhfD9xo3YCR0dvSry\n+Dn+BszHL9ISgEQofDRl5fTos1Afux8DJGruhHAN3eWJheKPtSmrZE/I5kKiZAnv\nhtzLHRCxDSnRUNTjZVONALfy8KV8qgwihRU+/EJ6wIuyoAq9mpTynYfApYVPIfRm\n8+3HL64qevRpVl72olPzwihmaQKBgQDFOAqwZhVFFOth31TB507B3n2iUN8F+xQL\nuYrDWtY91IIJgsF4bHcgEyRBnQvHnYgYl4VhRine0J0tPNORqPcZKkm8qv+L2j8s\nwibmC79sWSMoGM5iru2rcV+BvVCn5aPlKCTu4WZL1li5i5dTkZyWeAqDqQR6Hnr6\nQTa6/4QaOwKBgAPdfbGgzRMUL/ZRfA5ZZ/B4vaRbDHwM47T/fZP3pwn37N14/Tx4\nmoRl6w9GbaqYzrIp/GfOBO7G2KnYQJqrmT0h/yHVBVV4MUU0pFLwlXQk3lirZmfo\nnpi33J4ZGTqlWy1eQassHsn+A7SPAsw3acaH6aWc+Q9MaZoRKo1PoqEpAoGBAKAP\ndLVnlFmluceMHtjkZsn3TdWfdvH+rW06n8EfBwPVZdhcM7MNrLzubB2IXNgcJSl4\nR/sDm9XHT9k4JalxDWJyLLgfvBj//wfPZwyLekdwLJVNVKtIt4HOGKpOQJiTSqog\nI6Fwc7qW8xlbjmx3oDOKp1XlpcmK1Von9UhdOhSjAoGBALZ0bUCxnsPw1qrac6n/\n4orfOf7X3kRghSovvaCDHwSYUiGdJEtTyWHZbnI0S67CzBlSdmtGNyV41EcD8g6z\nq8ZbGJW2TPnTulywgA59M7qvR7NhVsUx9FXnCM8h47Syr8MPA2qqSe9s6+z1ui+a\nIfJR625Lmsft3qCMidVysbeN\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-rtfdz@herb-platform-v3.iam.gserviceaccount.com",
+  "client_id": "105361640385769205046",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-rtfdz%40herb-platform-v3.iam.gserviceaccount.com"
+}
